@@ -11,8 +11,8 @@ Table of Content
 	
 1. Prerequisites
 
-* You have a `<Windows>` machine with Visual Studio installed.
-* You have basic knowledge about sensor, Modbus RTU frame and C/C++ programming for MCU unit.
+* You have a computer with Atollic TrueStudio installed.
+* You have basic knowledge about sensor, Modbus RTU frame, datasheet read and C/C++ programming for MCU unit.
 
 2. Contact Information
 
